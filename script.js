@@ -122,8 +122,6 @@ if (vogais.includes(letra)) {
 
 
 
-
-
 let cardapio = {
     "Chocolate": 1.50,
     "Morango": 2.50,
